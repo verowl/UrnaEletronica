@@ -36,5 +36,3 @@ def cadastraEleitores():
                 if (resposta==2):
                        break
 cadastraCandidatos()
-
-
