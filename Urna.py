@@ -1,4 +1,4 @@
-var candidatos=[]
+vacandidatos=[]
 print "A Urna foi inicializada. Caro Administrador, informe sua senha e cadastre o secretário)"
 cadastraSenhaSecretario.Administrador()
 print "Caro Secretário - TSE cadastre os usuários e senhas dos participantes da zona"
